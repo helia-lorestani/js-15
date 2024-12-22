@@ -1,0 +1,123 @@
+body {
+  background-color: rgba(200, 183, 188, 0.515);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 90px;
+
+  margin: 0px;
+}
+#border1 {
+  width: 65vw;
+  height: 70vh;
+  border-radius: 70px;
+  background-color: rgb(152, 129, 147);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+#border2 {
+  width: 60vw;
+  height: 60vh;
+  border-radius: 70px;
+  background-color: white;
+
+  position: relative;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  align-items: center;
+}
+.box1 {
+  display: flex;
+  justify-content: space-around;
+  width: 90%;
+  position: absolute;
+  top: 20px;
+}
+.box2 {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+  position: absolute;
+  top: 150px;
+}
+img {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  right: -100px;
+  top: 180px;
+}
+.circle {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin: 20px;
+}
+.c1 {
+  background-color: rgba(31, 127, 102, 1);
+  margin-left: 100px;
+}
+.c2 {
+  background-color: rgba(255, 200, 0, 1);
+}
+.c3 {
+  background-color: rgba(255, 123, 0, 1);
+}
+.c4 {
+  background-color: rgba(216, 1, 1, 1);
+}
+.c5 {
+  background-color: rgba(223, 4, 70, 1);
+}
+.c6 {
+  background-color: rgba(127, 31, 85, 1);
+}
+.c7 {
+  background-color: rgba(93, 18, 199, 1);
+  margin-right: 100px;
+}
+
+.square {
+  width: 50px;
+  height: 60px;
+  background-color: rgb(183, 205, 205);
+}
+
+/* .c11 {
+  width: 70px;
+  height: 70px;
+  border-radius: 50px;
+  margin: 20px;
+  position: absolute;
+  top: 160px;
+  left: 470px;
+  background-color: rgba(31, 127, 102, 1);
+}
+.c111 {
+  width: 60px;
+  height: 60px;
+  border-radius: 50px;
+  margin: 20px;
+  position: absolute;
+  top: -15px;
+  left: -15px;
+  background-color: white;
+}
+.c1111 {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin: 20px;
+  position: absolute;
+  top: -16px;
+  left: -96px;
+  background-color: rgba(31, 127, 102, 1);
+  margin-left: 100px;
+}
+.disabled {
+  pointer-events: none;
+  opacity: 0;
+} */
